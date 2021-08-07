@@ -25,16 +25,10 @@
       "id": 4
     },
     {
-      "title": "blog three",
-      "body": "message three",
-      "author": "Marta",
+      "title": "boge of the week",
+      "body": "on  this week, the government anounce",
+      "author": "Yosef",
       "id": 5
-    },
-    {
-      "title": "Blog four",
-      "body": "message four",
-      "author": "Marta",
-      "id": 6
     }
   ]
 }
