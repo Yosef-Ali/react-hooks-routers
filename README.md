@@ -1,13 +1,9 @@
-## Json server
+## React router dom
 
-### Run
+### Link
 
-```
-npx json-server --watch data/db.json --port 8000
-```
-
-### End point
+Every anchor `a` should be change to `Link` and `href` to `to` to prevent un unnecessary network recall
 
 ```
-http://localhost:8000/blogs
+ <Link to="/">Home</Link>
 ```
